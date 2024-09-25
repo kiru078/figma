@@ -1,0 +1,60 @@
+.t
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.t2
+{
+    width: 255px;
+    margin: 20px;
+}
+.esquerda
+{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 540px;
+    margin: 20px;
+    align-items: center;
+    
+}
+.img
+{
+    display: flex;
+    justify-content:flex-end;
+    
+}
+main
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 124px;
+    margin-bottom: 375,69px;
+    margin-left: 165px;
+    margin-right: 119px;
+}
+.robot
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.robot2 
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.foto
+{
+    width: 36px;
+    margin-top: 80px;
+}
+.cor
+{
+    color:#6F7CB2;
+}
+p
+{
+    line-height: 1.5;
+}
